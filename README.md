@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-## 🔭 I’m currently working on Sociedad de Beneficencia de Lima.
-## 🌱 I’m currently learning JavaScript, Node and React.
-## 👯 I’m looking to collaborate on web projects.
-## 😄 Pronouns: DavDev 
+#### 🔭 I’m currently working on Sociedad de Beneficencia de Lima.
+#### 🌱 I’m currently learning JavaScript, Node and React.
+#### 👯 I’m looking to collaborate on web projects.
+#### 😄 Pronouns: DavDev 
 
 <!--
 **rcaichihua/rcaichihua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
