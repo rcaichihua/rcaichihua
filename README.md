@@ -1,4 +1,4 @@
-### Hi there 👋
+### ¡Hello! I'm Roger Davy 👋
 
 #### 🔭 I’m currently working on Sociedad de Beneficencia de Lima.
 #### 🌱 I’m currently learning JavaScript, Node and React.
