@@ -1,6 +1,6 @@
 ### ¡Hello! I'm Roger Davy 👋
 
-#### 🔭 I’m currently working on Sociedad de Beneficencia de Lima.
+#### 🔭 I’m currently working on charitable society of lima.
 #### 🌱 I’m currently learning JavaScript, Node and React.
 #### 👯 I’m looking to collaborate on web projects.
 #### 😄 Pronouns: DavDev 
