@@ -1,9 +1,9 @@
 ### ¡Hello! I'm Roger Davy 👋
 
 #### 🔭 I’m currently working on charitable society of lima.
-#### 🌱 I’m currently learning JavaScript, Node and React.
+#### 🌱 I’m currently working on and developing projects with Angular and React..
 #### 👯 I’m looking to collaborate on web projects.
-#### 😄 Pronouns: DavyDev 
+#### 😄 Pronouns: DavDev 
 
 <!--
 **rcaichihua/rcaichihua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
