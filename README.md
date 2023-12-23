@@ -1,7 +1,7 @@
 ### ¡Hello! I'm Roger Davy 👋
 
 #### 🔭 I’m currently working on charitable society of lima.
-#### 🌱 I’m currently working on and developing projects with Angular and React..
+#### 🌱 I am currently embarking on a journey with Angular and React, focusing on developing my skills and working on projects using these technologies..
 #### 👯 I’m looking to collaborate on web projects.
 #### 😄 Pronouns: DavDev 
 
